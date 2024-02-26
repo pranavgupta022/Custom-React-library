@@ -11,8 +11,3 @@ To run this simply open it with live server from index.html file.
 
 
 
-# Feedback
-
-
-
-If you have any feedback, please reach out to us at pranavgupta022@.com
